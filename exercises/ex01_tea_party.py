@@ -1,7 +1,6 @@
-"""Tea Party!"""
+"""Planning a cozy tea party!"""
 
 __author__ = "730751173"
-"""Plan a cozy tea party"""
 
 
 def main_planner(guests: int) -> None:
